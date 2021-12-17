@@ -48,7 +48,7 @@
 }
 
 .app__download--android{
-    background-image: url(/img/icone-android-logo.svg);
+    background-image: url(../img/icone-android-logo.svg);
     background-position: left .5rem center;
     padding-left: 1.4rem;
 }
