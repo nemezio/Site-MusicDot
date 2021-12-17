@@ -27,7 +27,7 @@
 .cursos {
  color: #fff;
  text-align: center;
- background-image: url(/img/home-background-mobile.png);
+ background-image: url(../img/home-background-mobile.png);
  background-size: cover;
  padding-top: 9.5rem;
  display: flex;
@@ -96,43 +96,43 @@
  }
 
  .curso--tecladopiano {
- background-image: url("/img/icone-teclado-piano.svg");
+ background-image: url("../img/icone-teclado-piano.svg");
  }
 
  .curso--violaoguitarra {
- background-image: url("/img/icones-violao-guitarra.svg");
+ background-image: url("../img/icones-violao-guitarra.svg");
  }
 
  .curso--baixo {
- background-image: url("/img/icones-baixo.svg");
+ background-image: url("../img/icones-baixo.svg");
  }
 
  .curso--bateria {
- background-image: url("/img/icones-bateria.svg");
+ background-image: url("../img/icones-bateria.svg");
  }
 
  .curso--percussao {
- background-image: url("/img/icones-percussao.svg");
+ background-image: url("../img/icones-percussao.svg");
  }
 
  .curso--canto {
- background-image: url("/img/icones-canto.svg");
+ background-image: url("../img/icones-canto.svg");
  }
 
  .curso--audio {
- background-image: url("/img/icones-audio.svg");
+ background-image: url("../img/icones-audio.svg");
  }
 
  .curso--teoria {
- background-image: url("/img/icones-teoria.svg");
+ background-image: url("../img/icones-teoria.svg");
  }
 
  .curso--sopro {
- background-image: url("/img/icones-sopro.svg");
+ background-image: url("../img/icones-sopro.svg");
  }
 
  .curso--cordas {
- background-image: url("/img/icone-cordas.svg");
+ background-image: url("../img/icone-cordas.svg");
  }
 
  .cursos__lista img {
@@ -144,7 +144,7 @@
  @media(min-width:768px) {
  .cursos {
  padding: 6rem 5% 0;
- background-image: url(/img/home-background.png);
+ background-image: url(../img/home-background.png);
  }
 
  .cursos__chamada {
