@@ -20,19 +20,19 @@
 }
 
 .beneficio--paravoce{
-    background-image: url(/img/icone-beneficios-tudo-para-voce.svg);
+    background-image: url(../img/icone-beneficios-tudo-para-voce.svg);
 }
 
 .beneficio--duvidas{
-    background-image: url(/img/icone-beneficios-nenhuma-duvida.svg);
+    background-image: url(../img/icone-beneficios-nenhuma-duvida.svg);
 }
 
 .beneficio--didatica{
-    background-image: url(/img/icone-beneficios-didatica-cuidadosa.svg);
+    background-image: url(../img/icone-beneficios-didatica-cuidadosa.svg);
 }
 
 .beneficio--online{
-    background-image: url(/img/icone-beneficios-online.svg);
+    background-image: url(../img/icone-beneficios-online.svg);
 }
 
 .beneficio__titulo{
